@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">brain-dump — Ideas bloom here</title>
+  <desc id="desc">Hawaiian Hibiscus on Plumeria White, with a red flower, green leaves, and Pacific Blue rings.</desc>
+  <rect x="1" y="1" width="1198" height="318" rx="24" fill="#FFFFFF" stroke="#0D1117"/>
+  <path d="M24 319h1152" stroke="#9D4EDD" stroke-width="3"/>
+  <circle cx="1030" cy="160" r="126" fill="#0D1117" stroke="#0096C7"/>
+  <circle cx="1030" cy="160" r="104" fill="none" stroke="#0077B6" stroke-dasharray="4 12"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="70" fill="#0077B6" font-size="16" font-weight="700" letter-spacing="4">BRAIN DUMP / HAWAIIAN HIBISCUS</text>
+    <text x="60" y="157" fill="#0D1117" font-size="64" font-weight="700">Ideas bloom here.</text>
+    <text x="64" y="204" fill="#080B0E" font-size="22">A home for sparks, branches, and what comes next.</text>
+    <text x="64" y="265" fill="#7209B7" font-size="15" letter-spacing="3">OBSIDIAN BLACK + ISLAND COLOR</text>
+  </g>
+  <g transform="translate(1030 160)">
+    <path d="M-15 35Q-125 20-104 92Q-32 104-15 35" fill="#52B788"/>
+    <path d="M18 28Q112 15 95 91Q35 95 18 28" fill="#2EC4B6"/>
+    <g fill="#E63946">
+      <ellipse cy="-42" rx="32" ry="57"/>
+      <ellipse cy="-42" rx="32" ry="57" transform="rotate(72)"/>
+      <ellipse cy="-42" rx="32" ry="57" transform="rotate(144)"/>
+      <ellipse cy="-42" rx="32" ry="57" transform="rotate(216)"/>
+      <ellipse cy="-42" rx="32" ry="57" transform="rotate(288)"/>
+    </g>
+    <circle r="24" fill="#7209B7"/>
+    <path d="M0 3L42-48" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="44" cy="-50" r="7" fill="#FFFFFF"/>
+  </g>
+</svg>
