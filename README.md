@@ -4,7 +4,7 @@
   <img alt="Hawaiian Hibiscus on Obsidian Black banner" src="assets/banner-dark.svg" width="100%">
 </picture>
 
-<h1 align="center">🌺 Aloha, I'm Audrey Evans</h1>
+<h1 align="center">🌺🏝️🐬🌺🌸🏄‍♀️ 𝒜𝓁ℴ𝒽𝒶.ᐟ💗🏄🏼‍♀️🐬🐠🏝️, I'm Audrey Evans</h1>
 <p align="center"><b>SQL developer · Founder, Freedom Angel Corps</b></p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <details open>
-  <summary>🌺🥥🌴🌺🌅🌊 <b>Core languages &amp; data</b></summary>
+  <summary>°‧ 𓆝 𓆟 𓆞 ·｡ <b>Core languages °‧ 𓆝 𓆟 𓆞 ·｡ &amp; data</b></summary>
   <p align="center">
     <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=E63946" alt="SQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=0096C7" alt="PostgreSQL"/>
@@ -31,11 +31,11 @@
 </details>
 
 <details>
-  <summary>📊 <b>GitHub stats</b></summary>
+  <summary>📊 <b>GitHub𓇼 ⋆.˚ 𓆉 𓆝  𓆡⋆.˚ 𓇼 stats𓇼 ⋆.˚ 𓆉 𓆝  𓆡⋆.˚ 𓇼</b></summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=midnghtsapphire&show_icons=true&hide_border=false&bg_color=0D1117&title_color=E63946&icon_color=2EC4B6&text_color=FFFFFF&border_color=9D4EDD" alt="Audrey's GitHub stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnghtsapphire&layout=compact&bg_color=0D1117&title_color=E63946&text_color=FFFFFF&border_color=9D4EDD" alt="Top languages"/>
   </p>
 </details>
 
-<p align="center"><sub>🌴 Hawaiian Hibiscus on Obsidian Black</sub></p>
+<p align="center"><sub>🌴🥥🌺 Hawaiian Hibiscus on Obsidian Black🌴🥥🌺</sub></p>
