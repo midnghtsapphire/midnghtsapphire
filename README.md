@@ -21,7 +21,7 @@
 </p>
 
 <details open>
-  <summary>🌺 <b>Core languages &amp; data</b></summary>
+  <summary>🌺🥥🌴🌺🌅🌊 <b>Core languages &amp; data</b></summary>
   <p align="center">
     <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=E63946" alt="SQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=0096C7" alt="PostgreSQL"/>
